@@ -1,4 +1,4 @@
-# Blog_SQL_Advance
+# Blog-SQL
 
 ## Background & Objectives
 The goal of this challenge is to query the database **from our Python code**.
